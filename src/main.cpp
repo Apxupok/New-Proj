@@ -206,3 +206,4 @@ void loop() {
   getThermo();  
   server.handleClient();
 }
+//Однострочный комментарий
